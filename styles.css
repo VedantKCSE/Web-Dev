@@ -1,0 +1,30 @@
+h3{
+    color: #ffee00;
+    font-family: monospace;
+    
+}
+ol {
+    color: #FFFAFA;
+    font-family: monospace;
+}
+table {
+    border: 1px solid rgb(255, 0, 0);
+    width: 100%;
+    font-family: monospace;
+}
+th, tr, td {
+    border-collapse: collapse;
+    border: 1px solid rgb(197, 197, 197);
+    color: #9effff;
+    font-weight: bold;
+}
+a{
+    color: #FFFAFA;
+}
+.center{
+    text-align: center;
+    font-weight: bolder
+}
+p{
+    color: azure;
+}
